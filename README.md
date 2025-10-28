@@ -5,7 +5,7 @@ Welcome to my **LeetCode Practice Repository** — a personal collection of prob
 ---
 
 ## 📚 About This Repository
-This repository contains my **solutions to LeetCode problems**, written for:
+This repository contains my **solutions to LeetCode problems**, created for:
 - Practicing **Java programming**
 - Strengthening **algorithmic thinking**
 - Preparing for **technical interviews**
@@ -26,15 +26,16 @@ Each file or folder corresponds to a specific problem or topic — neatly organi
 
 ---
 
-## 🗂️ Structure Example
+## 🗂️ Project Structure
+```bash
 Java_LeetCode_Practice/
-- │
-- ├── HashMapTest/
-- │   ├── HashMapTest.java
-- │   ├── HashMapTest.class
-- │
-- ├── Prefix_Solution/
-- │   ├── Prefix_Solution.java
-- │   ├── Prefix_Solution.class
-- │
-- └── README.md
+│
+├── HashMapTest/
+│   ├── HashMapTest.java
+│   ├── HashMapTest.class
+│
+├── Prefix_Solution/
+│   ├── Prefix_Solution.java
+│   ├── Prefix_Solution.class
+│
+└── README.md
