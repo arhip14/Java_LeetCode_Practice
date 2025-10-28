@@ -28,13 +28,13 @@ Each file or folder corresponds to a specific problem or topic — neatly organi
 
 ## 🗂️ Structure Example
 Java_LeetCode_Practice/
-│
-├── HashMapTest/
-│   ├── HashMapTest.java
-│   ├── HashMapTest.class
-│
-├── Prefix_Solution/
-│   ├── Prefix_Solution.java
-│   ├── Prefix_Solution.class
-│
-└── README.md
+- │
+- ├── HashMapTest/
+- │   ├── HashMapTest.java
+- │   ├── HashMapTest.class
+- │
+- ├── Prefix_Solution/
+- │   ├── Prefix_Solution.java
+- │   ├── Prefix_Solution.class
+- │
+- └── README.md
