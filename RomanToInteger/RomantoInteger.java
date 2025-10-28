@@ -1,3 +1,5 @@
+package RomanToInteger;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -18,9 +20,9 @@ public class RomantoInteger {
             int curr = map.get(s.charAt(i));
 
             if (curr < prev) {
-                total -= curr; 
+                total -= curr;
             } else {
-                total += curr; 
+                total += curr;
             }
 
             prev = curr;
