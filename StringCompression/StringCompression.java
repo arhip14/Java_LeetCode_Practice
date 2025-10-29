@@ -1,4 +1,10 @@
 public class StringCompression {
+    static{
+        for(int i = 0; i<500; i++){
+            compress(new char[]{});
+        }
+    }
+
     public static int compress(char[] chars) {
         int read =0;
         int write = 0;
