@@ -4,7 +4,7 @@ public class GreatestCommonDivisorofStrings {
                 return "";
             }
             int gcdLength = gcd(str1.length() , str2.length());
-            return str1;
+            return str1.substring(0, gcdLength);
         }
         private int gcd(int a , int b) {
             if ( b == 0) {
