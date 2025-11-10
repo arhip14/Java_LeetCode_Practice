@@ -21,7 +21,6 @@ public class KeysandRooms {
     public static void main(String[] args) {
         KeysandRooms solution = new KeysandRooms();
 
-        // Приклад 1
         List<List<Integer>> rooms1 = new ArrayList<>();
         rooms1.add(Arrays.asList(1));
         rooms1.add(Arrays.asList(2));
@@ -30,7 +29,6 @@ public class KeysandRooms {
 
         System.out.println("Example 1: " + solution.keysandRooms(rooms1)); // true
 
-        // Приклад 2
         List<List<Integer>> rooms2 = new ArrayList<>();
         rooms2.add(Arrays.asList(1,3));
         rooms2.add(Arrays.asList(3,0,1));
