@@ -31,6 +31,7 @@ public class TotalCosttoHireKWorkers {
         return total;
     }
 
+
     public static void main(String[] args) {
         TotalCosttoHireKWorkers sol = new TotalCosttoHireKWorkers();
 
